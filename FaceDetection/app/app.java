@@ -1,4 +1,4 @@
-package com.balazsholczer.facedetection.app;
+package com.bestcom.an.facedetection.app;
 
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
